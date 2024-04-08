@@ -5,7 +5,7 @@ function App() {
   return (
    <div>
     <Article
-      title={'あああ'}
+      title={'あああ！！！'}
       content={'いいい'}
     />
     <Article
